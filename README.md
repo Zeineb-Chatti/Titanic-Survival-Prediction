@@ -1,7 +1,5 @@
 # Titanic Survival Prediction
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/Titanic_3.jpg)
-
 ## Overview
 This project analyzes the Titanic dataset to predict passenger survival. Using **data cleaning**, **feature engineering**, and **machine learning models** (Logistic Regression and Random Forest), we explore patterns that influenced survival and create a predictive model.
 
@@ -66,4 +64,5 @@ The notebook is fully **portfolio-ready**, showing step-by-step preprocessing, v
 2. Install required libraries:
 ```bash
 pip install pandas numpy scikit-learn seaborn matplotlib joblib
+
 3. Run each cell step by step.
