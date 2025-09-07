@@ -64,5 +64,5 @@ The notebook is fully **portfolio-ready**, showing step-by-step preprocessing, v
 2. Install required libraries:
 ```bash
 pip install pandas numpy scikit-learn seaborn matplotlib joblib
-
+```
 3. Run each cell step by step.
